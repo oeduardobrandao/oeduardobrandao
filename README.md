@@ -8,6 +8,11 @@ I'm 25, currently living in Fortaleza, Brazil, and on track to become a <b>Fulls
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardobrandaos/)
 [![GMail](https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardob.fsa@gmail.com)
 
+## 🔬 My projects
+### The Movie Game
+🎮 <a href="https://the-movie-game.netlify.app/">Click here to play <b>The Movie Game</b> online</a><br/>
+📁 Repo: <a href="https://github.com/oeduardobrandao/movie-game/tree/main"><b>The Movie Game</b></a>
+
 <h2 align="left">📊 GitHub Stats</h3>
 <p align="left">
 <a href="https://github.com/oeduardobrandao">
