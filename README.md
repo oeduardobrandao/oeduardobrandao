@@ -11,7 +11,11 @@ I'm 25, currently living in Fortaleza, Brazil, and on track to become a <b>Fulls
 ## 🔬 My projects
 ### The Movie Game
 🎮 <a href="https://the-movie-game.netlify.app/">Click here to play <b>The Movie Game</b> online</a><br/>
-📁 Repo: <a href="https://github.com/oeduardobrandao/movie-game/tree/main"><b>The Movie Game</b></a>
+📁 Repo: <a href="https://github.com/oeduardobrandao/movie-game"><b>The Movie Game</b></a>
+
+### Squares QR Code
+🔲 <a href="https://squares-qrcode.netlify.app/">Clich here to try <b>Squares QR Code</b>!</a>
+📁 Repo: <a href="https://github.com/oeduardobrandao/squares-app">Squares QR Code</a>
 
 <h2 align="left">📊 GitHub Stats</h3>
 <p align="left">
